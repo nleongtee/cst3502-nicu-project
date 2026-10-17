@@ -1,0 +1,955 @@
+field,code,label
+AB_ANTI,N,No
+AB_ANTI,U,Unknown or not stated
+AB_ANTI,Y,Yes
+AB_AVEN1,N,No
+AB_AVEN1,U,Unknown or not stated
+AB_AVEN1,Y,Yes
+AB_AVEN6,N,No
+AB_AVEN6,U,Unknown or not stated
+AB_AVEN6,Y,Yes
+AB_NICU,N,No
+AB_NICU,U,Unknown or not stated
+AB_NICU,Y,Yes
+AB_SEIZ,N,No
+AB_SEIZ,U,Unknown or not stated
+AB_SEIZ,Y,Yes
+AB_SURF,N,No
+AB_SURF,U,Unknown or not stated
+AB_SURF,Y,Yes
+APGAR10,00-10,A score of 0-10
+APGAR10,88,Not applicable
+APGAR10,99,Unknown or not stated
+APGAR10R,1,A score of 0-3
+APGAR10R,2,A score of 4-6
+APGAR10R,3,A score of 7-8
+APGAR10R,4,A score of 9-10
+APGAR10R,5,Not stated/not applicable
+APGAR5,00-10,A score of 0-10
+APGAR5,99,Unknown or not stated
+APGAR5R,1,A score of 0-3
+APGAR5R,2,A score of 4-6
+APGAR5R,3,A score of 7-8
+APGAR5R,4,A score of 9-10
+APGAR5R,5,Unknown or not stated
+ATTEND,1,Doctor of Medicine (MD)
+ATTEND,2,Doctor of Osteopathy (DO)
+ATTEND,3,Certified Nurse Midwife/Certified Midwife (CNM/CM)
+ATTEND,4,Other Midwife
+ATTEND,5,Other
+ATTEND,9,Unknown or not stated
+BFACIL,1,Hospital
+BFACIL,2,Freestanding Birth Center
+BFACIL,3,Home (intended)
+BFACIL,4,Home (not intended)
+BFACIL,5,Home (unknown if intended)
+BFACIL,6,Clinic / Doctor's Office
+BFACIL,7,Other
+BFACIL,9,Unknown
+BFACIL3,1,In Hospital
+BFACIL3,2,Not in Hospital
+BFACIL3,3,Unknown or Not Stated
+BFED,N,No
+BFED,U,Unknown or not stated
+BFED,Y,Yes
+BMI,99.9,Unknown or not stated
+BMI_R,1,Underweight <18.5
+BMI_R,2,Normal 18.5-24.9
+BMI_R,3,Overweight 25.0-29.9
+BMI_R,4,Obesity I 35.0-34.9
+BMI_R,5,Obesity II 35.0-39.9
+BMI_R,6,Extreme Obesity III ≥ 40.0
+BMI_R,9,Unknown or not stated
+BWTR12,01,0227 - 0499 grams
+BWTR12,02,0500 - 0999 grams
+BWTR12,03,1000 - 1499 grams
+BWTR12,04,1500 - 1999 grams
+BWTR12,05,2000 - 2499 grams
+BWTR12,06,2500 - 2999 grams
+BWTR12,07,3000 - 3499 grams
+BWTR12,08,3500 - 3999 grams
+BWTR12,09,4000 - 4499 grams
+BWTR12,10,4500 - 4999 grams
+BWTR12,11,5000 - 8165 grams
+BWTR12,12,Not Stated
+BWTR4,1,0227 - 1499 grams
+BWTR4,2,1500 - 2499 grams
+BWTR4,3,2500 - 8165 grams
+BWTR4,4,Unknown or not stated
+CA_ANEN,N,No
+CA_ANEN,U,Unknown or not stated
+CA_ANEN,Y,Yes
+CA_CCHD,N,No
+CA_CCHD,U,Unknown or not stated
+CA_CCHD,Y,Yes
+CA_CDH,N,No
+CA_CDH,U,Unknown or not stated
+CA_CDH,Y,Yes
+CA_CLEFT,N,No
+CA_CLEFT,U,Unknown or not stated
+CA_CLEFT,Y,Yes
+CA_CLPAL,N,No
+CA_CLPAL,U,Unknown or not stated
+CA_CLPAL,Y,Yes
+CA_DISOR,C,Confirmed
+CA_DISOR,N,No
+CA_DISOR,P,Pending
+CA_DISOR,U,Unknown
+CA_DOWN,C,Confirmed
+CA_DOWN,N,No
+CA_DOWN,P,Pending
+CA_DOWN,U,Unknown
+CA_GAST,N,No
+CA_GAST,U,Unknown or not stated
+CA_GAST,Y,Yes
+CA_HYPO,N,"No, anomaly not reported"
+CA_HYPO,U,Unknown
+CA_HYPO,Y,"Yes, anomaly reported"
+CA_LIMB,N,No
+CA_LIMB,U,Unknown or not stated
+CA_LIMB,Y,Yes
+CA_MNSB,N,No
+CA_MNSB,U,Unknown or not stated
+CA_MNSB,Y,Yes
+CA_OMPH,N,No
+CA_OMPH,U,Unknown or not stated
+CA_OMPH,Y,Yes
+CIG_0,00-97,Number of cigarettes daily
+CIG_0,98,98 or more cigarettes daily
+CIG_0,99,Unknown or not stated
+CIG_1,00-97,Number of cigarettes daily
+CIG_1,98,98 or more cigarettes daily
+CIG_1,99,Unknown or not stated
+CIG_2,00-97,Number of cigarettes daily
+CIG_2,98,98 or more cigarettes daily
+CIG_2,99,Unknown or not stated
+CIG_3,00-97,Number of cigarettes daily
+CIG_3,98,98 or more cigarettes daily
+CIG_3,99,Unknown or not stated
+CIG_REC,N,No
+CIG_REC,U,Unknown or not stated
+CIG_REC,Y,Yes
+CIG0_R,0,Nonsmoker
+CIG0_R,5,41 or more
+CIG0_R,6,Unknown or not stated
+CIG1_R,0,Nonsmoker
+CIG1_R,5,41 or more
+CIG1_R,6,Unknown or not stated
+CIG2_R,0,Nonsmoker
+CIG2_R,5,41 or more
+CIG2_R,6,Unknown or not stated
+CIG3_R,0,Nonsmoker
+CIG3_R,5,41 or more
+CIG3_R,6,Unknown or not stated
+COMBGEST,17-47,17th through 47th week of Gestation
+COMBGEST,99,Unknown
+COMPGST_IMP,1,Combined Gestation is imputed
+COMPGST_IMP,Blank,Combined Gestation is not imputed
+DBWT,0227-8165,Number of grams
+DBWT,9999,Not stated birth weight
+DLMP_MM,01,January
+DLMP_MM,02,February
+DLMP_MM,03,March
+DLMP_MM,04,April
+DLMP_MM,05,May
+DLMP_MM,06,June
+DLMP_MM,07,July
+DLMP_MM,08,August
+DLMP_MM,09,September
+DLMP_MM,10,October
+DLMP_MM,11,November
+DLMP_MM,12,December
+DLMP_MM,99,Unknown or not stated
+DLMP_YY,9999,Unknown or not stated
+DMAR,1,Married
+DMAR,2,Unmarried
+DMAR,3,Unmarried parents not living together
+DMAR,9,Unknown or not stated
+DMETH_REC,1,Vaginal
+DMETH_REC,2,C-Section
+DMETH_REC,9,Unknown
+DOB_MM,01,January
+DOB_MM,02,February
+DOB_MM,03,March
+DOB_MM,04,April
+DOB_MM,05,May
+DOB_MM,06,June
+DOB_MM,07,July
+DOB_MM,08,August
+DOB_MM,09,September
+DOB_MM,10,October
+DOB_MM,11,November
+DOB_MM,12,December
+DOB_TT,0000-2359,Time of Birth
+DOB_TT,9999,Not Stated
+DOB_WK,1,Sunday
+DOB_WK,2,Monday
+DOB_WK,3,Tuesday
+DOB_WK,4,Wednesday
+DOB_WK,5,Thursday
+DOB_WK,6,Friday
+DOB_WK,7,Saturday
+DOB_YY,2024,Year of birth
+DPLURAL,1,Single
+DPLURAL,2,Twin
+DPLURAL,3,Triplet
+DPLURAL,4,Quadruplet or higher
+DWGT_R,100-400,Weight in pounds
+DWGT_R,999,Unknown or not stated
+F_AB_ANTIBIO,0,Non-Reporting
+F_AB_ANTIBIO,1,Reporting
+F_AB_NIUC,0,Non-Reporting
+F_AB_NIUC,1,Reporting
+F_AB_SEIZ,0,Non-Reporting
+F_AB_SEIZ,1,Reporting
+F_AB_SURFAC,0,Non-Reporting
+F_AB_SURFAC,1,Reporting
+F_AB_VENT,1,Reporting
+F_AB_VENT6,0,Non-Reporting
+F_AB_VENT6,1,Reporting
+F_APGAR5,0,Non-Reporting
+F_APGAR5,1,Reporting
+F_BFACIL,0,Non-Reporting
+F_BFACIL,1,Reporting
+F_BFED,0,Non-Reporting
+F_BFED,1,Reporting
+F_CA_ANEN,0,Non-Reporting
+F_CA_ANEN,1,Reporting
+F_CA_CHROM,0,Non-Reporting
+F_CA_CHROM,1,Reporting
+F_CA_CLEFT,0,Non-Reporting
+F_CA_CLEFT,1,Reporting
+F_CA_CLEFTLP,0,Non-Reporting
+F_CA_CLEFTLP,1,Reporting
+F_CA_DOWNS,0,Non-Reporting
+F_CA_DOWNS,1,Reporting
+F_CA_GASTRO,0,Non-Reporting
+F_CA_GASTRO,1,Reporting
+F_CA_HEART,1,Reporting
+F_CA_HERNIA,0,Non-Reporting
+F_CA_HERNIA,1,Reporting
+F_CA_HYPOS,0,Non-Reporting
+F_CA_HYPOS,1,Reporting
+F_CA_LIMB,0,Non-Reporting
+F_CA_LIMB,1,Reporting
+F_CA_MENIN,0,Non-Reporting
+F_CA_MENIN,1,Reporting
+F_CA_OMPHA,0,Non-Reporting
+F_CA_OMPHA,1,Reporting
+F_CIGS_0,0,Non-Reporting
+F_CIGS_0,1,Reporting
+F_CIGS_1,0,Non-Reporting
+F_CIGS_1,1,Reporting
+F_CIGS_2,0,Non-Reporting
+F_CIGS_2,1,Reporting
+F_CIGS_3,0,Non-Reporting
+F_CIGS_3,1,Reporting
+F_DMETH_REC,0,Non-Reporting
+F_DMETH_REC,1,Reporting
+F_DWGT,0,Non-Reporting
+F_DWGT,1,Reporting
+F_FEDUC,0,Non-Reporting
+F_FEDUC,1,Reporting
+F_FHISP,0,Non-Reporting
+F_FHISP,1,Reporting
+F_IP_CHLAM,0,Non-Reporting
+F_IP_CHLAM,1,Reporting
+F_IP_GONOR,0,Non-Reporting
+F_IP_GONOR,1,Reporting
+F_IP_HEPATB,0,Non-Reporting
+F_IP_HEPATB,1,Reporting
+F_IP_HEPATC,0,Non-Reporting
+F_IP_HEPATC,1,Reporting
+F_IP_SYPH,0,Non-Reporting
+F_IP_SYPH,1,Reporting
+F_LD_ANES,0,Non-Reporting
+F_LD_ANES,1,Reporting
+F_LD_ANTB,0,Non-Reporting
+F_LD_ANTB,1,Reporting
+F_LD_AUGM,0,Non-Reporting
+F_LD_AUGM,1,Reporting
+F_LD_CHOR,0,Non-Reporting
+F_LD_CHOR,1,Reporting
+F_LD_INDL,0,Non-Reporting
+F_LD_INDL,1,Reporting
+F_LD_STER,0,Non-Reporting
+F_LD_STER,1,Reporting
+F_M_HT,0,Non-Reporting
+F_M_HT,1,Reporting
+F_MAR_P,0,Non-Reporting
+F_MAR_P,1,Reporting
+F_ME_PRES,0,Non-Reporting
+F_ME_PRES,1,Reporting
+F_ME_ROUT,1,Reporting
+F_ME_TRIAL,0,Non-Reporting
+F_ME_TRIAL,1,Reporting
+F_MEDUC,0,Non-Reporting
+F_MEDUC,1,Reporting
+F_MHISP,0,Non-Reporting
+F_MHISP,1,Reporting
+F_MM_AICU,0,Non-Reporting
+F_MM_AICU,1,Reporting
+F_MM_MTR,0,Non-Reporting
+F_MM_MTR,1,Reporting
+F_MM_PLAC,0,Non-Reporting
+F_MM_PLAC,1,Reporting
+F_MM_RUPT,0,Non-Reporting
+F_MM_RUPT,1,Reporting
+F_MM_UHYST,0,Non-Reporting
+F_MM_UHYST,1,Reporting
+F_MPCB,0,Non-Reporting
+F_MPCB,1,Reporting
+F_OB_FAIL,0,Non-Reporting
+F_OB_FAIL,1,Reporting
+F_OB_SUCC,1,Reporting
+F_PAY,0,Non-Reporting
+F_PAY,1,Reporting
+F_PAY_REC,0,Non-Reporting
+F_PAY_REC,1,Reporting
+F_PWGT,0,Non-Reporting
+F_PWGT,1,Reporting
+F_RF_CESAR,0,Non-Reporting
+F_RF_CESAR,1,Reporting
+F_RF_ECLAMP,0,Non-Reporting
+F_RF_ECLAMP,1,Reporting
+F_RF_GDIAB,0,Non-Reporting
+F_RF_GDIAB,1,Reporting
+F_RF_GHYPER,0,Non-Reporting
+F_RF_GHYPER,1,Reporting
+F_RF_INF_ART,0,Non-Reporting
+F_RF_INF_ART,1,Reporting
+F_RF_INF_DRG,0,Non-Reporting
+F_RF_INF_DRG,1,Reporting
+F_RF_INFT,0,Non-Reporting
+F_RF_INFT,1,Reporting
+F_RF_NCESAR,0,Non-Reporting
+F_RF_NCESAR,1,Reporting
+F_RF_PDIAB,0,Non-Reporting
+F_RF_PDIAB,1,Reporting
+F_RF_PHYPER,0,Non-Reporting
+F_RF_PHYPER,1,Reporting
+F_RF_PPB,0,Non-Reporting
+F_RF_PPB,1,Reporting
+F_TOBACO,0,Non-Reporting
+F_TOBACO,1,Reporting
+F_TPCV,0,Non-Reporting
+F_TPCV,1,Reporting
+F_WIC,0,Non-Reporting
+F_WIC,1,Reporting
+F_WTGAIN,0,Non-Reporting
+F_WTGAIN,1,Reporting
+FAGECOMB,09-98,Father's combined age in years
+FAGECOMB,99,Unknown or not stated
+FAGEREC11,01,Under 15 years
+FAGEREC11,02,15-19 years
+FAGEREC11,03,20-24 years
+FAGEREC11,04,25-29 years
+FAGEREC11,05,30-34 years
+FAGEREC11,06,35-39 years
+FAGEREC11,07,40-44 years
+FAGEREC11,08,45-49 years
+FAGEREC11,09,50-54 years
+FAGEREC11,10,55-98 years
+FAGEREC11,11,Not stated
+FAGERPT_FLG,1,Father's reported age used
+FAGERPT_FLG,Blank,Father's reported age not used
+FEDUC,1,8th grade or less
+FEDUC,2,9th through 12th grade with no diploma
+FEDUC,3,High school graduate or GED completed
+FEDUC,4,"Some college credit, but not a degree."
+FEDUC,5,"Associate degree (AA,AS)"
+FEDUC,6,"Bachelor's degree (BA, AB, BS)"
+FEDUC,7,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"
+FEDUC,8,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"
+FEDUC,9,Unknown
+FHISP_R,0,Non-Hispanic
+FHISP_R,1,Mexican
+FHISP_R,2,Puerto Rican
+FHISP_R,3,Cuban
+FHISP_R,4,Central and South American
+FHISP_R,5,Other and Unknown Hispanic origin
+FHISP_R,9,Hispanic origin not stated
+FHISPX,0,Non-Hispanic
+FHISPX,1,Mexican
+FHISPX,2,Puerto Rican
+FHISPX,3,Cuban
+FHISPX,4,Central or South American
+FHISPX,5,Dominican
+FHISPX,6,Other and Unknown Hispanic
+FHISPX,9,Origin unknown or not stated
+FRACE15,01,White (only)
+FRACE15,02,Black (only)
+FRACE15,03,AIAN (only)
+FRACE15,04,Asian Indian (only)
+FRACE15,05,Chinese (only)
+FRACE15,06,Filipino (only)
+FRACE15,07,Japanese (only)
+FRACE15,08,Korean (only)
+FRACE15,09,Vietnamese (only)
+FRACE15,10,Other Asian (only)
+FRACE15,11,Hawaiian (only)
+FRACE15,12,Guamanian (only)
+FRACE15,13,Samoan (only)
+FRACE15,14,Other Pacific Islander (only)
+FRACE15,15,More than one race
+FRACE15,99,Unknown or Not Stated
+FRACE31,01,White (only) [only one race reported]
+FRACE31,02,Black (only)
+FRACE31,03,AIAN (American Indian or Alaskan Native) (only)
+FRACE31,04,Asian (only)
+FRACE31,05,NHOPI (Native Hawaiian or Other Pacific Islander) (only)
+FRACE31,06,Black and White
+FRACE31,07,Black and AIAN
+FRACE31,08,Black and Asian
+FRACE31,09,Black and NHOPI
+FRACE31,10,AIAN and White
+FRACE31,11,AIAN and Asian
+FRACE31,12,AIAN and NHOPI
+FRACE31,13,Asian and White
+FRACE31,14,Asian and NHOPI
+FRACE31,15,NHOPI and White
+FRACE31,16,"Black, AIAN, and White"
+FRACE31,17,"Black, AIAN, and Asian"
+FRACE31,18,"Black, AIAN, and NHOPI"
+FRACE31,19,"Black, Asian, and White"
+FRACE31,20,"Black, Asian, and NHOPI"
+FRACE31,21,"Black, NHOPI, and White"
+FRACE31,22,"AIAN, Asian, and White"
+FRACE31,23,"AIAN, NHOPI, and White"
+FRACE31,24,"AIAN, Asian, and NHOPI"
+FRACE31,25,"Asian, NHOPI, and White"
+FRACE31,26,"Black, AIAN, Asian, and White"
+FRACE31,27,"Black, AIAN, Asian, and NHOPI"
+FRACE31,28,"Black, AIAN, NHOPI, and White"
+FRACE31,29,"Black, Asian, NHOPI, and White"
+FRACE31,30,"AIAN, Asian, NHOPI, and White"
+FRACE31,31,"Black, AIAN, Asian, NHOPI, and White"
+FRACE31,99,Unknown or Not Stated
+FRACE6,1,White (only)
+FRACE6,2,Black (only)
+FRACE6,3,AIAN (only)
+FRACE6,4,Asian (only)
+FRACE6,5,NHOPI (only)
+FRACE6,6,More than one race
+FRACE6,9,Unknown or Not Stated
+FRACEHISP,1,Non-Hispanic White (only)
+FRACEHISP,2,Non-Hispanic Black (only)
+FRACEHISP,3,Non-Hispanic AIAN (only)
+FRACEHISP,4,Non-Hispanic Asian (only)
+FRACEHISP,5,Non-Hispanic NHOPI (only)
+FRACEHISP,6,Non-Hispanic more than one race
+FRACEHISP,7,Hispanic
+FRACEHISP,8,Origin unknown or not stated
+FRACEHISP,9,Race unknown or not stated (Non-Hispanic)
+GESTREC10,01,Under 20 weeks
+GESTREC10,02,20-27 weeks
+GESTREC10,03,28-31 weeks
+GESTREC10,04,32-33 weeks
+GESTREC10,05,34-36 weeks
+GESTREC10,06,37-38 weeks
+GESTREC10,07,39 weeks
+GESTREC10,08,40 weeks
+GESTREC10,09,41 weeks
+GESTREC10,10,42 weeks and over
+GESTREC10,99,Unknown
+GESTREC3,1,Under 37 weeks
+GESTREC3,2,37 weeks and over
+GESTREC3,3,Not stated
+ILIVE,N,No
+ILIVE,U,Unknown or not stated
+ILIVE,Y,Yes
+ILLB_R,000-003,Plural delivery
+ILLB_R,004-300,Months since last live birth
+ILLB_R,888,Not applicable / 1st live birth
+ILLB_R,999,Unknown or not stated
+ILLB_R11,00,Zero to 3 months (plural delivery)
+ILLB_R11,01,4 to 11 months
+ILLB_R11,02,12 to 17 months
+ILLB_R11,03,18 to 23 months
+ILLB_R11,04,24 to 35 months
+ILLB_R11,05,36 to 47 months
+ILLB_R11,06,48 to 59 months
+ILLB_R11,07,60 to 71 months
+ILLB_R11,08,72 months and over
+ILLB_R11,88,Not applicable (1st live birth)
+ILLB_R11,99,Unknown or not stated
+ILOP_R,000-003,Plural delivery
+ILOP_R,004-300,Months since last live birth
+ILOP_R,888,Not applicable / 1st natality event
+ILOP_R,999,Unknown or not stated
+ILOP_R11,00,Zero to 3 months (plural delivery)
+ILOP_R11,01,4 to 11 months
+ILOP_R11,02,12 to 17 months
+ILOP_R11,03,18 to 23 months
+ILOP_R11,04,24 to 35 months
+ILOP_R11,05,36 to 47 months
+ILOP_R11,06,48 to 59 months
+ILOP_R11,07,60 to 71 months
+ILOP_R11,08,72 months and over
+ILOP_R11,88,Not applicable (1st natality event)
+ILOP_R11,99,Unknown or not stated
+ILP_R,000-003,Plural delivery
+ILP_R,004-300,Months since last live birth
+ILP_R,888,Not applicable / no previous pregnancy
+ILP_R,999,Unknown or not stated
+ILP_R11,00,Zero to 3 months (plural delivery)
+ILP_R11,01,4 to 11 months
+ILP_R11,02,24 to 35 months
+ILP_R11,03,36 to 47 months
+ILP_R11,04,48 to 59 months
+ILP_R11,05,60 to 71 months
+ILP_R11,06,72 months and over
+ILP_R11,88,Not applicable (no previous pregnancy)
+ILP_R11,99,Unknown or not stated
+IMP_PLUR,1,Plurality is imputed
+IMP_PLUR,Blank,Plurality is not imputed
+IMP_SEX,1,Infant Sex is Imputed
+IMP_SEX,Blank,Infant Sex not Imputed
+IP_CHLAM,N,No
+IP_CHLAM,U,Unknown or not stated
+IP_CHLAM,Y,Yes
+IP_GON,N,No
+IP_GON,U,Unknown or not stated
+IP_GON,Y,Yes
+IP_HEPB,N,No
+IP_HEPB,U,Unknown or not stated
+IP_HEPB,Y,Yes
+IP_HEPC,N,No
+IP_HEPC,U,Unknown or not stated
+IP_HEPC,Y,Yes
+IP_SYPH,N,No
+IP_SYPH,U,Unknown or not stated
+IP_SYPH,Y,Yes
+ITRAN,N,No
+ITRAN,U,Unknown or not stated
+ITRAN,Y,Yes
+LBO_REC,1-7,Number of live birth order.
+LBO_REC,8,8 or more live births
+LBO_REC,9,Unknown or not stated
+LD_ANES,N,No
+LD_ANES,U,Unknown or not stated
+LD_ANES,Y,Yes
+LD_ANTB,N,No
+LD_ANTB,U,Unknown or not stated
+LD_ANTB,Y,Yes
+LD_AUGM,N,No
+LD_AUGM,U,Unknown or not stated
+LD_AUGM,Y,Yes
+LD_CHOR,N,No
+LD_CHOR,U,Unknown or not stated
+LD_CHOR,Y,Yes
+LD_INDL,N,No
+LD_INDL,U,Unknown or not stated
+LD_INDL,Y,Yes
+LD_STER,N,No
+LD_STER,U,Unknown or not stated
+LD_STER,Y,Yes
+LMPUSED,1,Combined gestation used
+LMPUSED,Blank,Combined gestation not used
+M_HT_IN,30-78,Height in inches
+M_HT_IN,99,Unknown or not stated
+MAGE_IMPFLG,1,Age imputed
+MAGE_IMPFLG,Blank,Age not imputed
+MAGE_REPFLG,1,Reported age used
+MAGE_REPFLG,Blank,Reported age not used
+MAGER,12,10 - 12 years
+MAGER,13,13 years
+MAGER,14,14 years
+MAGER,15,15 years
+MAGER,16,16 years
+MAGER,17,17 years
+MAGER,18,18 years
+MAGER,19,19 years
+MAGER,20,20 years
+MAGER,21,21 years
+MAGER,22,22 years
+MAGER,23,23 years
+MAGER,24,24 years
+MAGER,25,25 years
+MAGER,26,26 years
+MAGER,27,27 years
+MAGER,28,28 years
+MAGER,29,29 years
+MAGER,30,30 years
+MAGER,31,31 years
+MAGER,32,32 years
+MAGER,33,33 years
+MAGER,34,34 years
+MAGER,35,35 years
+MAGER,36,36 years
+MAGER,37,37 years
+MAGER,38,38 years
+MAGER,39,39 years
+MAGER,40,40 years
+MAGER,41,41 years
+MAGER,42,42 years
+MAGER,43,43 years
+MAGER,44,44 years
+MAGER,45,45 years
+MAGER,46,46 years
+MAGER,47,47 years
+MAGER,48,48 years
+MAGER,49,49 years
+MAGER,50,50 years and over
+MAGER14,01,Under 15 Years
+MAGER14,03,15 years
+MAGER14,04,16 years
+MAGER14,05,17 years
+MAGER14,06,18 years
+MAGER14,07,19 years
+MAGER14,08,20-24 years
+MAGER14,09,25-29 years
+MAGER14,10,30-34 years
+MAGER14,11,35-39 years
+MAGER14,12,40-44 years
+MAGER14,13,45-49 years
+MAGER14,14,50-54 years
+MAGER9,1,Under 15 years
+MAGER9,2,15-19 years
+MAGER9,3,20-24 years
+MAGER9,4,25-29 years
+MAGER9,5,30-34 years
+MAGER9,6,35-39 years
+MAGER9,7,40-44 years
+MAGER9,8,45-49 years
+MAGER9,9,50-54 years
+MAR_IMP,1,Marital Status imputed
+MAR_IMP,Blank,Marital Status not imputed
+MAR_P,N,No
+MAR_P,U,Unknown
+MAR_P,X,Not Applicable
+MAR_P,Y,Yes
+MBCNTRY,AA-ZZ,See Geographic Documentation
+MBSTATE_REC,1,Born in the U.S. (50 US States)
+MBSTATE_REC,2,Born outside the U.S. (includes possessions)
+MBSTATE_REC,3,Unknown or Not Stated
+ME_PRES,1,Cephalic
+ME_PRES,2,Breech
+ME_PRES,3,Other
+ME_PRES,9,Unknown or not stated
+ME_ROUT,1,Spontaneous
+ME_ROUT,2,Forceps
+ME_ROUT,3,Vacuum
+ME_ROUT,4,Cesarean
+ME_ROUT,9,Unknown or not stated
+ME_TRIAL,N,No
+ME_TRIAL,U,Unknown or not stated
+ME_TRIAL,X,Not applicable
+ME_TRIAL,Y,Yes
+MEDUC,1,8th grade or less
+MEDUC,2,9th through 12th grade with no diploma
+MEDUC,3,High school graduate or GED completed
+MEDUC,4,"Some college credit, but not a degree."
+MEDUC,5,"Associate degree (AA,AS)"
+MEDUC,6,"Bachelor's degree (BA, AB, BS)"
+MEDUC,7,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"
+MEDUC,8,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"
+MEDUC,9,Unknown
+MHISP_R,0,Non-Hispanic
+MHISP_R,1,Mexican
+MHISP_R,2,Puerto Rican
+MHISP_R,3,Cuban
+MHISP_R,4,Central and South American
+MHISP_R,5,Other and Unknown Hispanic origin
+MHISP_R,9,Hispanic origin not stated
+MHISPX,0,Non-Hispanic
+MHISPX,1,Mexican
+MHISPX,2,Puerto Rican
+MHISPX,3,Cuban
+MHISPX,4,Central or South American
+MHISPX,5,Dominican
+MHISPX,6,Other and Unknown Hispanic
+MHISPX,9,Origin unknown or not stated
+MM_AICU,N,No
+MM_AICU,U,Unknown or not stated
+MM_AICU,Y,Yes
+MM_MTR,N,No
+MM_MTR,U,Unknown or not stated
+MM_MTR,Y,Yes
+MM_PLAC,N,No
+MM_PLAC,U,Unknown or not stated
+MM_PLAC,Y,Yes
+MM_RUPT,N,No
+MM_RUPT,U,Unknown or not stated
+MM_RUPT,Y,Yes
+MM_UHYST,N,No
+MM_UHYST,U,Unknown or not stated
+MM_UHYST,Y,Yes
+MRACE15,01,White (only)
+MRACE15,02,Black (only)
+MRACE15,03,AIAN (only)
+MRACE15,04,Asian Indian (only)
+MRACE15,05,Chinese (only)
+MRACE15,06,Filipino (only)
+MRACE15,07,Japanese (only)
+MRACE15,08,Korean (only)
+MRACE15,09,Vietnamese (only)
+MRACE15,10,Other Asian (only)
+MRACE15,11,Hawaiian (only)
+MRACE15,12,Guamanian (only)
+MRACE15,13,Samoan (only)
+MRACE15,14,Other Pacific Islander (only)
+MRACE15,15,More than one race
+MRACE31,01,White (only) [only one race reported]
+MRACE31,02,Black (only)
+MRACE31,03,AIAN (American Indian or Alaskan Native) (only)
+MRACE31,04,Asian (only)
+MRACE31,05,NHOPI (Native Hawaiian or Other Pacific Islander) (only)
+MRACE31,06,Black and White
+MRACE31,07,Black and AIAN
+MRACE31,08,Black and Asian
+MRACE31,09,Black and NHOPI
+MRACE31,10,AIAN and White
+MRACE31,11,AIAN and Asian
+MRACE31,12,AIAN and NHOPI
+MRACE31,13,Asian and White
+MRACE31,14,Asian and NHOPI
+MRACE31,15,NHOPI and White
+MRACE31,16,"Black, AIAN, and White"
+MRACE31,17,"Black, AIAN, and Asian"
+MRACE31,18,"Black, AIAN, and NHOPI"
+MRACE31,19,"Black, Asian, and White"
+MRACE31,20,"Black, Asian, and NHOPI"
+MRACE31,21,"Black, NHOPI, and White"
+MRACE31,22,"AIAN, Asian, and White"
+MRACE31,23,"AIAN, NHOPI, and White"
+MRACE31,24,"AIAN, Asian, and NHOPI"
+MRACE31,25,"Asian, NHOPI, and White"
+MRACE31,26,"Black, AIAN, Asian, and White"
+MRACE31,27,"Black, AIAN, Asian, and NHOPI"
+MRACE31,28,"Black, AIAN, NHOPI, and White"
+MRACE31,29,"Black, Asian, NHOPI, and White"
+MRACE31,30,"AIAN, Asian, NHOPI, and White"
+MRACE31,31,"Black, AIAN, Asian, NHOPI, and White"
+MRACE6,1,White (only)
+MRACE6,2,Black (only)
+MRACE6,3,AIAN (only)
+MRACE6,4,Asian (only)
+MRACE6,5,NHOPI (only)
+MRACE6,6,More than one race
+MRACEHISP,1,Non-Hispanic White (only)
+MRACEHISP,2,Non-Hispanic Black (only)
+MRACEHISP,3,Non-Hispanic AIAN (only)
+MRACEHISP,4,Non-Hispanic Asian (only)
+MRACEHISP,5,Non-Hispanic NHOPI (only)
+MRACEHISP,6,Non-Hispanic more than one race
+MRACEHISP,7,Hispanic
+MRACEHISP,8,Origin unknown or not stated
+MRACEIMP,1,Unknown race imputed
+MRACEIMP,2,"All other races, formerly coded 09, imputed."
+MRACEIMP,Blank,Mother's race not imputed
+MRCNTRY,AA-ZZ,See Geographic Documentation
+MRTERR,AS,American Samoa
+MRTERR,GU,Guam
+MRTERR,MP,Northern Marianas
+MRTERR,PR,Puerto Rico
+MRTERR,US,United States (births to residents of the 50 states or DC)
+MRTERR,VI,Virgin Islands
+MRTERR,XX,Not Applicable
+MRTERR,ZZ,Not Classifiable
+MTRAN,N,No
+MTRAN,U,Unknown
+MTRAN,Y,Yes
+NO_ABNORM,0,False
+NO_ABNORM,1,True
+NO_ABNORM,9,Not Reported
+NO_CONGEN,0,False
+NO_CONGEN,1,True
+NO_CONGEN,9,Not Reported
+NO_INFEC,0,False
+NO_INFEC,1,True
+NO_INFEC,9,Not Reported
+NO_LBRDLV,0,False
+NO_LBRDLV,1,True
+NO_LBRDLV,9,Not Reported
+NO_MMORB,0,False
+NO_MMORB,1,True
+NO_MMORB,9,Not Reported
+NO_RISKS,0,False
+NO_RISKS,1,True
+NO_RISKS,9,Not Reported
+OB_ECVF,N,No
+OB_ECVF,U,Unknown or not stated
+OB_ECVF,Y,Yes
+OB_ECVS,N,No
+OB_ECVS,U,Unknown or not stated
+OB_ECVS,Y,Yes
+OBGEST_FLG,1,Obstetric Estimate is used
+OBGEST_FLG,Blank,Obstetric Estimate is not used
+OCNTYFIPS,000,No county level geography
+OCNTYFIPS,021,Bayamo'n
+OCNTYFIPS,025,Caguas
+OCNTYFIPS,031,Carolina
+OCNTYFIPS,113,Ponce
+OCNTYFIPS,127,San Juan
+OCNTYFIPS,999,"County of less than 100,000"
+OCNTYPOP,0,"County of 1,000,000 or more"
+OCNTYPOP,1,"County of 500,000 to 1,000,000"
+OCNTYPOP,2,"County of 250,000 to 500,000"
+OCNTYPOP,4,"County of 50,000 to 100,000"
+OCNTYPOP,5,"County of 25,000 to 50,000"
+OCNTYPOP,6,"County of 10,000 to 25,000"
+OCNTYPOP,9,"County less than 10,000"
+OCTERR,AS,American Samoa
+OCTERR,GU,Guam
+OCTERR,MP,Northern Marianas
+OCTERR,PR,Puerto Rico
+OCTERR,US,United States (births to residents of the 50 states or DC)
+OCTERR,VI,Virgin Islands
+OCTERR,XX,Not Applicable
+OCTERR,ZZ,Not Classifiable
+OEGEST_COMB,17-47,Weeks of gestation
+OEGEST_COMB,99,Not stated
+OEGEST_R10,01,Under 20 weeks
+OEGEST_R10,02,20-27 weeks
+OEGEST_R10,03,28-31 weeks
+OEGEST_R10,04,32-33 weeks
+OEGEST_R10,05,34-36 weeks
+OEGEST_R10,06,37-38 weeks
+OEGEST_R10,07,39 weeks
+OEGEST_R10,08,40 weeks
+OEGEST_R10,09,41 weeks
+OEGEST_R10,10,42 weeks and over
+OEGEST_R10,99,Unknown
+OEGEST_R3,1,Under 37 weeks
+OEGEST_R3,2,37 weeks and over
+OEGEST_R3,3,Not stated
+PAY,1,Medicaid
+PAY,2,Private Insurance
+PAY,3,Self-Pay
+PAY,4,Indian Health Service
+PAY,5,CHAMPUS/TRICARE
+PAY,6,"Other Government (Federal, State, Local)"
+PAY,8,Other
+PAY,9,Unknown
+PAY_REC,1,Medicaid
+PAY_REC,2,Private Insurance
+PAY_REC,3,Self Pay
+PAY_REC,4,Other
+PAY_REC,9,Unknown
+PRECARE,00,No prenatal care
+PRECARE,01-10,Month prenatal care began
+PRECARE,99,Unknown or not stated
+PRECARE5,1,1st to 3rd month
+PRECARE5,2,4th to 6th month
+PRECARE5,3,7th to final month
+PRECARE5,4,No prenatal care
+PRECARE5,5,Unknown or not stated
+PREVIS,00-98,Number of prenatal visits
+PREVIS,99,Unknown or not stated
+PREVIS_REC,01,No visits
+PREVIS_REC,02,1 to 2 visits
+PREVIS_REC,03,3 to 4 visits
+PREVIS_REC,04,5 to 6 visits
+PREVIS_REC,05,7 to 8 visits
+PREVIS_REC,06,9 to 10 visits
+PREVIS_REC,07,11 to 12 visits
+PREVIS_REC,08,13 to 14 visits
+PREVIS_REC,09,15 to 16 visits
+PREVIS_REC,10,17 to 18 visits
+PREVIS_REC,11,19 or more visits
+PREVIS_REC,12,Unknown or not stated
+PRIORDEAD,00-30,Number of children dead from previous live births.
+PRIORDEAD,99,Unknown or not stated
+PRIORLIVE,00-30,Number of children still living from previous live births.
+PRIORLIVE,99,Unknown or not stated
+PRIORTERM,00-30,Number other terminations
+PRIORTERM,99,Unknown or not stated
+PWGT_R,075-375,Weight in pounds
+PWGT_R,999,Unknown or not stated
+RCITY_POP,0,"City of 1,000,000 or more"
+RCITY_POP,1,"City of 500,000 to 1,000,000"
+RCITY_POP,2,"City of 250,000 to 500,000"
+RCITY_POP,3,"City of 100,000 to 250,000"
+RCITY_POP,4,"City of 50,000 to 100,000"
+RCITY_POP,5,"City of 25,000 to 50,000"
+RCITY_POP,6,"City of 10,000 to 25,000"
+RCITY_POP,9,All other areas in the US
+RCITY_POP,Z,Foreign resident
+RCNTY,000,No county level geography
+RCNTY,021,Bayamo'n
+RCNTY,025,Caguas
+RCNTY,031,Carolina
+RCNTY,113,Ponce
+RCNTY,127,San Juan
+RCNTY,999,"County of less than 100,000"
+RCNTY_POP,0,"County of 1,000,000 or more"
+RCNTY_POP,1,"County of 500,000 to 1,000,000"
+RCNTY_POP,2,"County of 250,000 to 500,000"
+RCNTY_POP,3,"County of 100,000 to 250,000"
+RCNTY_POP,4,"County of 50,000 to 100,000"
+RCNTY_POP,5,"County of 25,000 to 50,000"
+RCNTY_POP,6,"County of 10,000 to 25,000"
+RCNTY_POP,9,"County less than 10,000"
+RCNTY_POP,Z,Foreign resident
+RDMETH_REC,1,Vaginal (excludes vaginal after previous C-section)
+RDMETH_REC,2,Vaginal after previous c-section
+RDMETH_REC,3,Primary C-section
+RDMETH_REC,4,Repeat C-section
+RDMETH_REC,5,Vaginal (unknown if previous c-section)
+RDMETH_REC,6,C-section (unknown if previous c-section)
+RDMETH_REC,9,Not stated
+RECTYPE,1,RESIDENT: Territory and county of occurrence and residence are the same.
+RECTYPE,2,NONRESIDENT: Territory and county of occurrence and residence are different.
+RESTATUS,1,RESIDENT: State and county of occurrence and residence are the same.
+RESTATUS,2,INTRASTATE NONRESIDENT: State of occurrence and residence are the same but county is different.
+RESTATUS,3,INTERSTATE NONRESIDENT: State of occurrence and residence are different but both are one of the 50 US states or District of Columbia.
+RESTATUS,4,FOREIGN RESIDENT: The state of residence is not one of the 50 US states or District of Columbia.
+RF_ARTEC,N,No
+RF_ARTEC,U,Unknown or not stated
+RF_ARTEC,X,Not applicable
+RF_ARTEC,Y,Yes
+RF_CESAR,N,No
+RF_CESAR,U,Unknown or not stated
+RF_CESAR,Y,Yes
+RF_CESARN,00,None
+RF_CESARN,01-30,Number of previous cesareans
+RF_CESARN,99,Unknown or not stated
+RF_EHYPE,N,No
+RF_EHYPE,U,Unknown or not stated
+RF_EHYPE,Y,Yes
+RF_FEDRG,N,No
+RF_FEDRG,U,Unknown or not stated
+RF_FEDRG,X,Not applicable
+RF_FEDRG,Y,Yes
+RF_GDIAB,N,No
+RF_GDIAB,U,Unknown or not stated
+RF_GDIAB,Y,Yes
+RF_GHYPE,N,No
+RF_GHYPE,U,Unknown or not stated
+RF_GHYPE,Y,Yes
+RF_INFTR,N,No
+RF_INFTR,U,Unknown or not stated
+RF_INFTR,Y,Yes
+RF_PDIAB,N,No
+RF_PDIAB,U,Unknown or not stated
+RF_PDIAB,Y,Yes
+RF_PHYPE,N,No
+RF_PHYPE,U,Unknown or not stated
+RF_PHYPE,Y,Yes
+RF_PPTERM,N,No
+RF_PPTERM,U,Unknown or not stated
+RF_PPTERM,Y,Yes
+SETORDER_R,1,1st
+SETORDER_R,2,2nd
+SETORDER_R,3,3rd
+SETORDER_R,4,4th
+SETORDER_R,5,5th to 16th
+SETORDER_R,9,Unknown or not stated
+SEX,F,Female
+SEX,M,Male
+TBO_REC,1-7,Number of total birth order.
+TBO_REC,8,8 or more total births
+TBO_REC,9,Unknown or not stated
+WIC,N,No
+WIC,U,Unknown or not stated
+WIC,Y,Yes
+WTGAIN,00-97,Weight gain in pounds
+WTGAIN,98,98 pounds and over
+WTGAIN,99,Unknown or not stated
+WTGAIN_REC,1,Less than 11 pounds
+WTGAIN_REC,2,11 to 20 pounds
+WTGAIN_REC,3,21 to 30 pounds
+WTGAIN_REC,4,31 to 40 pounds
+WTGAIN_REC,5,41 to 98 pounds
+WTGAIN_REC,9,Unknown or not stated
